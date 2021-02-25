@@ -1,4 +1,4 @@
-module github.com/xiaohao0416/gorm-logrus
+module github.com/ttjio/gorm-logrus
 
 go 1.15
 

@@ -4,11 +4,11 @@ Logrus logger for gorm v2
 #### how use
 
 ```
-go get github.com/xiaohao0416/gorm-logrus
+go get github.com/ttjio/gorm-logrus
 ```
 
 ```
-import "github.com/xiaohao0416/gorm-logrus"
+import "github.com/ttjio/gorm-logrus"
 import "github.com/sirupsen/logrus"
 
 

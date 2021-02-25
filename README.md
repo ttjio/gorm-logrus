@@ -1,7 +1,7 @@
 # gorm-logrus
 
 Logrus logger for gorm v2
-#### how use
+#### How to use
 
 ```
 go get github.com/ttjio/gorm-logrus

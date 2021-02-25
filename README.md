@@ -18,3 +18,4 @@ import "github.com/sirupsen/logrus"
     Logger: gorm_logrus.New(logger),
   })
 ```
+thinks [onrik/gorm-logrus](https://github.com/onrik/gorm-logrus) 
